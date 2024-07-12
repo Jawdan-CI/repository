@@ -184,6 +184,35 @@ main {
   color: #ffffff;
 }
 
+/* Reasons Section */
+#reasons {
+  margin: 20px auto;
+}
+
+#reasons > h2 {
+  font-size: 280%;
+  margin: 20px;
+  text-align: center;
+}
+
+#benefits {
+  margin: 20px;
+}
+
+#cardContent {
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+#cardContent > p {
+  padding: 0 20px;
+}
+
+#cardContent > hr {
+  border-top: 1px solid #3a3a3a;
+  margin: 5px 0;
+}
+
 /* Footer Section */
 #social-networks {
   text-align: center;
