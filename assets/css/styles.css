@@ -235,6 +235,22 @@ main {
   flex-wrap: wrap;
 }
 
+#times div {
+  color: #fafafa;
+  background-color: rgba(0, 0, 0, .6);
+  padding: 15px;
+  text-align: center;
+  flex-basis: 200px;
+  flex-grow: 1;
+  /*Creates a grid of meetup times div's over the background-image */
+  border: 2px solid white;
+}
+
+#times h3 {
+  /*Overrides heading general style*/
+  color: #fafafa;
+}
+
 /* Footer Section */
 #social-networks {
   text-align: center;
